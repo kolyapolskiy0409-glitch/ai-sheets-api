@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gspread
+oauth2client
+pydantic
+thefuzz
+python-Levenshtein
